@@ -1,5 +1,5 @@
 [package]
-name = "rpi-ds18b20-rust"
+name = "pi_temp"
 version = "0.1.0"
 authors = ["Alex Wendland <me@alexwendland.com>"]
 edition = "2018"
